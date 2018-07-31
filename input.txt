@@ -1,0 +1,16 @@
+ ADD 4 Mv10 R 2
+  RUN
+  ADD 6 TrnR90 L 3
+  RUN
+  ADD 3 Sit L 5
+  ADD 5 Mv100 L 10
+  RUN
+  RUN
+  ADD 7 TrnL100 R 3
+  ADD 4 Rise R 1
+  ADD 6 Stop10 R 7
+  RUN
+  DELETE
+  ADD 5 DRILL
+  CONTROL
+  TEST 2
